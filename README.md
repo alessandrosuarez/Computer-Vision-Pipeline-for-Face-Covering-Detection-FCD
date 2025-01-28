@@ -1,1 +1,1 @@
-# Computer-Vision-Pipeline-for-Face-Covering-Detection-FCD-.
+# Computer-Vision-Pipeline-for-Face-Covering-Detection-FCD
